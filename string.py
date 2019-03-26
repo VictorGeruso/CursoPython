@@ -17,3 +17,28 @@ print(a[4])
 print(a[5])
 
 print(concatenar[0:6])
+
+# Métodos String
+
+print(concatenar.lower())
+print(concatenar.upper())
+
+c = "Olá"
+d = "mundo"
+
+concat = c + " " + d + "\n"
+
+print(concat.strip())
+
+minha_string = "O rato roeu a roupa do rei de Roma"
+
+minha_lista = minha_string.split()
+print(minha_lista)
+
+busca = minha_string.find("rei")
+print(busca)
+
+print(minha_string[busca:])
+
+minha_string = minha_string.replace("o rei", "a rainha")
+print(minha_string)
