@@ -5,7 +5,7 @@ nota2 = float(input("Informe a segunda nota: "))
 
 media = (nota1 + nota2)/2
 
-print(media)
+print("Sua media é %f" %(media))
 
 if media >= 6 :
     print("Aprovado")
