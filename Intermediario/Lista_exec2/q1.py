@@ -1,0 +1,1 @@
+# Escreva um programa que compare se duas sequências digitadas pelo usuário são iguais.

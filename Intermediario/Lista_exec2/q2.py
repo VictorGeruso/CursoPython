@@ -1,0 +1,1 @@
+# Escreva um programa que abra um arquivo digitado pelo usuário e imprima seu conteúdo na tela.
