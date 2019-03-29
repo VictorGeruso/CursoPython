@@ -1,1 +1,0 @@
-# Escreva um programa que receba uma sequência digitada pelo usuário e a salve num arquivo no formato fasta.
